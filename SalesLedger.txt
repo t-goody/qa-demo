@@ -16,7 +16,7 @@ Date       | Vendor                  | Amount
 2025-10-20 | Northstar Ventures      | $2,400.00
 2025-11-04 | Oakwood Enterprises     | $11,200.00
 2025-11-18 | Pinnacle Software       | $4,900.00
-2025-12-02 | Quantum Leap Inc        | $3,650.00
+2025-12-02 | Quantum Leap Inc  -Tom Test     | $3,650.00
 2025-12-16 | Redwood Analytics       | $8,750.00
 2026-01-08 | Summit Peak Solutions   | $5,500.00
 2026-01-22 | Tidal Wave Marketing    | $2,975.00
